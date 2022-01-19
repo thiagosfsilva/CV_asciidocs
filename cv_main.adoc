@@ -1,0 +1,173 @@
+= Curriculum Vitae
+:author: Thiago Sanna Freire Silva <thiago.sf.silva@stir.ac.uk>
+:revdate: January 19, 2022
+:firstname: Thiago
+:lastname: Silva
+:middlename: Sanna Freire
+:authorinitials: TSFS
+:title-separator: ::
+:doctype: article
+:description: Thiago Silva's full professional CV.
+:url-repo: https://my-git-repo.com
+
+// Institution names
+:uos: University of Stirling 
+:unesp: Universidade Estadual Paulista
+:cc: Camosun College
+:uvic: University of Victoria
+:ucsb: University of California Santa Barbara
+:inpe: Instituto Nacional de Pesquisas Espaciais
+:ufrn: Universidade Federal do Rio Grande do Norte
+
+// Funder names
+:cnpq: National Council for Scientific and Technological Development(CNPq, Brazil)
+:capes: Coordination of Higher Education Improvement (CAPES, Brazil)
+:fapesp: São Paulo Research Foundation (FAPESP, Brazil)
+:peer: USAID Partnerships for Enhanced Engagement in Research (PEER, USA)
+:nsf: National Science Foundation (NSF, USA)
+:nasa: National Aeronautics and Space Administration (NASA, USA)
+:natgeo: National Geographic Society (NGS, USA)
+:jaxa: Japan Aerospace Exploration Agency (JAXA, Japan)
+
+////
+Put this on the header somehow as a quicklook
+
+6) Academic Quantitative Indicators
+
+Publications in peer-reviewed journal articles: 45
+Edited books 3
+Book chapters 6 
+Full Conference Papers > 30
+Conference Abstracts > 70
+Postdoctoral fellows supervised to date 2
+PhD students supervised to date 3
+Master's degree students supervised to date 5
+
+Citations in ISI 768 (h=16)
+Citations in Scopus 852 (h=16)
+Citations in Google Scholar 1311 (h=19)
+////
+
+
+== Education 
+
+[cols="1,2,3"]
+|===
+// |Year         |Title                    |Institution
+
+|2004 - 2009  |Ph.D. in Geography       |{uvic} (UVic), Canada
+|2003 - 2004  |M.Sc. in Remote Sensing  |{inpe} (INPE), Brazil
+|1998 - 2002  |B.Sc. in Biology         |{ufrn}  (UFRN), Brazil 
+|===
+
+== Professional History
+
+[cols="1,2,3"]
+|===
+// |Year         |Position                    |Institution
+
+|2019 - now   |Lecturer                            |{uos} (UoS), UK
+|2013 - now   |Affiliated Researcher (w/o pay)     |{ucsb} (UCSB), USA
+|2013 - 2019  |Assistant Professor                 |{unesp} (UNESP), Brazil
+|2010 - 2013  |FAPESP Postdoctoral Fellowship      |{inpe} (INPE), Brazil
+|2010 - 2010  |Postdoctoral Researcher             |{ucsb} (UCSB), USA
+|2010 - 2010  |Sessional Lecturer (USA = Adjunct)  |{cc}, Canada
+|2009 - 2009  |Sessional Lecturer (USA = Adjunct)  |{uvic} (UVic), Canada
+|2004 - 2008  |Teaching Assistant                  |{uvic} (UVic), Canada    
+|===
+
+== Research
+
+=== Grants and Awards
+
+[cols="1,3"]
+|===
+|2019 - 2021    
+| *Japanese Aerospace Exploration Agency* “Derivation of Analysis Ready Data (ARD) from multisensor radar imagery for supporting global wetland mapping”. +
+*Role:* Principal Investigator.
+
+|2017 – 2020	
+|National Aeronautics and Space Administration “Methane fluxes from tropical aquatic systems: integration of measurements, hydrological and biogeochemical models and remote sensing” +
+*Role*: collaborator, , *PI*: Prof. John Melack, {ucsb}
+
+|2018 – 2021	
+|National Science Foundation “Aquatic metabolism and carbon dioxide flux: Linking physical and biological processes in Amazon floodplains”. +
+*Role*: collaborator, *PI*: Prof. John Melack, {ucsb}
+
+|2018 -2020		
+|Brazilian Research Council (CNPq) “Monitoring temporal and spatial patterns of fire regimes and fuel accumulation in Brazilian savanna protected areas: implications for developing integrated fire management strategies”. +
+*Role*: Co-Investigator, *PI*: Dr. Alessandra Fidelis, {unesp}.
+|===
+
+=== Journal Publications
+
+Key:: _Italics: supervised students/postdocs_ , [.underline]#Underline - main/senior authorship#
+
+== Teaching and Mentoring 
+
+=== Supervision
+
+==== Posdoctoral researchers
+
+==== Ph.D. Students
+
+==== M.Sc. Students
+
+==== Undergraduate Students
+
+===== REI Fellowships
+
+===== Honours Dissertations
+
+==== Volunteer Internships
+
+*Undergraduate Research*:
+
+Thais Pereira de Medeiros. Applying unmanned aerial vehicle imagery to vegetation studies (Geography undergraduate) UNESP – Rio Claro, Co-Supervisor FAPESP IC 2019/03269-7. 
+    
+Jacob Ashley. Effects of microtopography and microclimatic variation on species and functional diversity on temperate mountainous grassland.  (BSc in Ecology), University of Stirling, UK.
+    
+Peter Meehan. Deriving 3-D forest and habitat structure from low cost Unmanned Aerial Vehicle imagery. (BSc in Environmental Geography), University of Stirling, UK.
+    
+Sophia Thomson. Use of GIS assessment methods to locate ideal wind-farming locations in Central Scotland. (BSc in Environmental Geography), University of Stirling, UK.
+    
+*Master Students*: 
+
+Isla Farrel. Using low cost unmanned aerial vehicles to estimate fuel load and vegetation regeneration after fires in a Braziilian savanna environment. Masters in Environmental Management, Faculty of Natural Sciences, University of Stirling. Start: 09/2019. Main Supervisor. 
+
+Dhemerson Estevão Conciani da Costa. History and spatial variability in the fire regime of protected areas in the State of São Paulo. Graduate Program in Ecology and Biodiversity, IB/UNESP. Start: 03/2018. Main Supervisor.
+    
+*PhD Students*:
+ 
+Kirsten O’Sullivan. Tree species range shifts in tropical mountainous forests of Taiwan. PhD candidate, Faculty of Natural Sciences, University of Stirling. Co-Supervisor.
+
+## 6) Academic Quantitative Indicators
+
+Publications in peer-reviewed journal articles: 45
+Edited books 3
+Book chapters 6 
+Full Conference Papers > 30
+Conference Abstracts > 70
+Postdoctoral fellows supervised to date 2
+PhD students supervised to date 3
+Master's degree students supervised to date 5
+
+Citations in ISI 768 (h=16)
+Citations in Scopus 852 (h=16)
+Citations in Google Scholar 1311 (h=19)
+
+## 7) Other information
+
+Google Scholar: 		http://scholar.google.ca/citations?user=hpPTEmcAAAAJ
+
+*Scientific and Editorial Committees:*
+
+Scientific Coordinator 	Network for Research on Ecology and Use of Wetland Forests in the Amazon River (Rede de Pesquisas sobre a Ecologia e Uso dos Recursos das Florestas Inundáveis da Calha do Solimões-Amazonas - 
+RECORFLOR). 
+
+Associate Editor		Global Ecology and Biogeography (IF: 5.667, JCR Ranking: 17/165 (Ecology); 2/50 (Phisical Geography, ISSN 1466-8238)
+
+Associate Editor		Remote Sensing (IF: 4.118, JCR Ranking: 7/30 (Remote Sensing), ISSN 2072-4292)
+
+
+
