@@ -1,0 +1,137 @@
+==== Journal Articles 
+
+. Campbell AJ, Lichtenberg EM, Carvalheiro LG, Menezes C, Borges RC, Coelho BWT, Freitas MAB, Giannini TC, Leão KL, de Oliveira FF, *Silva TSF*, & Maués MM. (2022). High bee functional diversity buffers crop pollination services against Amazon deforestation. *Agriculture, Ecosystems & Environment*, 326, 107777. DOI: 10.1016/j.agee.2021.10777
+
+. Silva CHL, Moura YM, Pessôa ACM, Trevisan DP, Mendes FS, Reis JBC, Picoli MCA, Wiederkehr NC, Carvalho NS, Dalagnol R, Kuck TN, Rosan TM, *Silva TSF*, Liesenberg V, & Bispo PC. (2021). Surviving as a young scientist in Brazil. *Science*, 374(6570), 948–948. DOI: 10.1126/science.abm8160
+
+. Paz A, Brown JL, _Cordeiro CLO_, Aguirre-Santoro J, Assis C, Amaro RC, Amaral FR, Bochorny T, Bacci LF, Caddah MK, d’Horta F, Kaehler M, Lyra M, Grohmann CH, Reginato M, Silva-Brandão KL, Freitas AVL, Goldenberg R, Lohmann LG, (…), Carnaval AC. (2021). Environmental correlates of taxonomic and phylogenetic diversity in the Atlantic Forest. *Journal of Biogeography*, 48(6), 1377–1391. DOI: 10.1111/jbi.14083
+
+. _Sugai LSM_, Llusia D, Siqueira T, & *Silva TSF*. (2021). Revisiting the drivers of acoustic similarities in tropical anuran assemblages. *Ecology*, 102(7), e03380. DOI: 10.1002/ecy.3380
+
+. _Sugai LSM_, *Silva TSF*, Llusia D, & Siqueira T. (2021). Drivers of assemblage-wide calling activity in tropical anurans and the role of temporal resolution. *Journal of Animal Ecology*, online early. DOI: 10.1111/1365-2656.13399
+
+. Schöngart J, Wittmann F, _Resende AF_, Assahira C, Lobo GS, Neves JRD, Rocha M, Mori GB, Quaresma AC, Demarchi LO, Albuquerque BW, Feitosa YO, Costa GS, Feitoza GV, Durgante FM, Lopes A, Trumbore SE, *Silva TSF*, Steege H ter, (...), Piedade MTF. (2021). The shadow of the Balbina dam: A synthesis of over 35 years of downstream impacts on floodplain forests in Central Amazonia. *Aquatic Conservation*, 31(5), 1117–1135. DOI: 10.1002/aqc.3526
+
+. _Daunt ABP_, *Silva TSF*, Bürgi M, & Hersperger AM. (2021). Urban expansion and forest reserves: Drivers of change and persistence on the coast of São Paulo State (Brazil). *Land Use Policy*, 101, 105189. DOI: 10.1016/j.landusepol.2020.105189
+
+. Petsch D, Saito VS, Landeiro VL, *Silva TSF*, Bini LM, Heino J, Soininen J, Tolonen KT, Jyrkänkallio-Mikkola J, Pajunen V, Siqueira T, & Melo AS. (2021). Beta diversity of stream insects differs between boreal and subtropical regions, but land use does not generally cause biotic homogenization. *Freshwater Science*, 50(1), 53-64. DOI:10.1086/712565
+
+. _Conciani DE_, Santos LP, *Silva TSF*, Durigan G, & _Alvarado ST_. (2021). Human-climate interactions shape fire regimes in the Cerrado of São Paulo state, Brazil. *Journal for Nature Conservation*, 61, 126006. DOI: 10.1016/j.jnc.2021.126006
+
+. Carvalho TC, Wittmann F, Piedade MTF, _Resende AF_, *Silva TSF*, & Schöngart J. (2021). Fires in Amazonian Blackwater Floodplain Forests: Causes, Human Dimension, and Implications for Conservation. *Frontiers in Forests and Global Change*, 4, 196. DOI: 10.3389/ffgc.2021.755441
+
+. _Streher AS_, Torres RS, Morellato LPC, & *Silva TSF*. (2020). Accuracy and limitations for spectroscopic prediction of leaf traits in seasonally dry tropical environments. *Remote Sensing of Environment*, 244, 111828. DOI: 10.1016/j.rse.2020.111828.
+
+. Amaral JHF, Melack JM, Barbosa PM, MacIntyre S, Kasper D, Cortés A, *Silva TSF*, Sousa RN, & Forsberg BR. (2020). Carbon Dioxide Fluxes to the Atmosphere From Waters Within Flooded Forests in the Amazon Basin. *Journal of Geophysical Research (Biogeosciences)*, 125, e05293. DOI: 10.1029/2019JG005293
+
+. Bush ER, Mitchard ETA, **Silva TSF**, Dimoto E, Dimbonda p, Makaga l, Abernethy, K. (2020). Monitoring Mega-Crown Leaf Turnover from Space. *Remote Sensing* 12 (3), 429. DOI: 10.3390/rs12030429
+
+. Merrick T, Jorge MLSP, *Silva TSF*, Pau S, Rausch J, Broadbent EN, & Bennartz R. (2020). Characterization of chlorophyll fluorescence, absorbed photosynthetically active radiation, and reflectance-based vegetation index spectroradiometer measurements. *International Journal of Remote Sensing*, 41(17), 6755–6782. DOI:10.1080/01431161.2020.1750731
+
+. ter Steege H, (...), Silva, TSF, (...) Pickavance G. (2020). Biased-corrected richness estimates for the Amazonian tree flora. Scientific Reports, 10(1), 10130. DOI:10.1038/s41598-020-66686-3
+
+. Silva E, Torres RS, Alberton B, Morellato LPC, & *Silva TSF*. (2020). A Change-Driven Image Foveation Approach for Tracking Plant Phenology. *Remote Sensing*, 12(9), 1409. https://doi.org/10.3390/rs12091409
+
+. Regolin AL, Ribeiro MC, Martello F, Melo GL, Sponchiado J, _Campanha LFC_, _Sugai LSM_, *Silva TSF*, & Cáceres NC. (2020). Spatial heterogeneity and habitat configuration overcome habitat composition influences on alpha and beta mammal diversity. *Biotropica*, 52(5), 969–980. DOI: 10.1111/btp.12800
+
+. _Sugai LSM_, Desjonquères C, *Silva TSF*, & Llusia D. (2020). A roadmap for survey designs in terrestrial acoustic monitoring. *Remote Sensing in Ecology and Conservation*, 6(3), 220–235. DOI: 10.1002/rse2.131
+
+. Alberton B, Torres RS, **Silva TSF**, Rocha HR, Moura MSB, Morellato LPC (2019). Leafing Patterns and Drivers across Seasonally Dry Tropical Communities. Remote Sensing 11: 2267. DOI: 10.3390/rs11192267
+
+. Almeida DRA, Stark SC, Valbuena R, Broadbent EN, **Silva TSF**,_Resende AF_, Ferreira MP, Cardil A, Silva CA, Amazonas N, Zambrano AMA, Brancalion PHS (2019). A new era in forest restoration monitoring. Restoration Ecology, early view. DOI: 10.1111/rec.13067
+
+. _Alvarado ST_, Andela N, **Silva TSF**, Archibald S (2019). Thresholds of fire response to moisture and fuel load differ between tropical savannas and grasslands across continents. Global Ecology and Biogeography early view DOI: 10.1111/geb.13034
+
+. _Daunt ABP_, **Silva TSF** (2019). Beyond the park and city dichotomy: Land use and land cover change in the northern coast of São Paulo (Brazil). Landscape and Urban Planning 189: 352–361. DOI: 10.1016/j.landurbplan.2019.05.003
+
+. Fonseca LDM, Dalagnol R, Malhi Y, Rifai SW, Costa GB, **Silva TSF**, Rocha HR, Tavares IB, Borma LS (2019). Phenology and Seasonal Ecosystem Productivity in an Amazonian Floodplain Forest. Remote Sensing 11: 1530. DOI: 10.3390/rs11131530
+
+. Nogueira K, Santos JA, Menini N, **Silva TSF**, Morellato LPC, Torres RS (2019). Spatio-Temporal Vegetation Pixel Classification by Using Convolutional Networks. IEEE Geoscience and Remote Sensing Letters 16: 1665–1669. DOI: 10.1109/LGRS.2019.2903194
+
+. Merrick T, Pau S, Jorge MLSP, **Silva TSF**, Bennartz R (2019). Spatiotemporal Patterns and Phenology of Tropical Vegetation Solar-Induced Chlorophyll Fluorescence across Brazilian Biomes Using Satellite Observations. Remote Sensing 11: 1746. DOI: 10.3390/rs11151746
+
+. Moraes AM, Vancine MH, _Cordeiro CLO_, Pinto MP, Lima AA, Culot L, **Silva TSF**, Collevatti RG, Ribeiro MC, Sobral-Souza T (2019). Predicting the potential hybridization zones between native and invasive marmosets within Neotropical biodiversity hotspots. Global Ecology and Conservation 20: e00706. DOI: 10.1016/j.gecco.2019.e00706
+
+. _Resende AF_, Schöngart J,_Streher AS_,_Ferreira-Ferreira J_, Piedade MTF, **Silva TSF** (2019). Massive tree mortality from flood pulse disturbances in Amazonian floodplain forests: The collateral effects of hydropower production. Science of The Total Environment 659: 587–598. DOI: 10.1016/j.scitotenv.2018.12.208
+
+. ter Steege H, ...,_Luize BG_, ..., **Silva TSF**, ... (211 authors)  (2019). Rarity of monodominance in hyperdiverse Amazonian forests. Scientific Reports 9: 1–15. DOI: 10.1038/s41598-019-50323-9
+
+. _Sugai LSM_, Desjonquères C, **Silva TSF**, Llusia D. (2019). A roadmap for survey designs in terrestrial acoustic monitoring. Remote Sensing in Ecology and Conservation n/a. DOI: 10.1002/rse2.131.
+
+. _Sugai LSM_, **Silva TSF**, Ribeiro JW, Llusia D. (2019). Terrestrial Passive Acoustic Monitoring: Review and Perspectives. BioScience 69: 15–25. DOI: 10.1093/biosci/biy147.
+
+. _Sugai LSM_, Sugai JLMM, Ferreira VL, **Silva TSF**. (2019). Satellite image texture for the assessment of tropical anuran communities. Biotropica 51: 581–590. DOI: 10.1111/btp.12668.
+
+. _Alvarado ST_, **Silva TSF**, Archibald S (2018). Management impacts on fire occurrence: A comparison of fire regimes of African and South American tropical savannas in different protected areas. Journal of Environmental Management 218: 79–87. DOI: 10.1016/j.jenvman.2018.04.004
+
+. Gomes VHF,...,_Luize BG_, ...,  **Silva TSF**, ..., ter Steege H (187 authors) (2018). Species Distribution Modelling: Contrasting presence-only models with plot abundance data. Scientific Reports 8: 1–12. DOI: 10.1038/s41598-017-18927-1
+
+. Heino J, Melo AS, Jyrkänkallio‐Mikkola J, Petsch DK, Saito VS, Tolonen KT, Bini LM, Landeiro VL, **Silva TSF**, Pajunen V, Soininen J, Siqueira T (2018). Subtropical streams harbour higher genus richness and lower abundance of insects compared to boreal streams, but scale matters. Journal of Biogeography 45: 1983–1993. DOI: 10.1111/jbi.13400
+
+. _Luize BG_, Magalhães JLL, Queiroz H, Lopes MA, Venticinque EM, Novo EMLM, **Silva TSF** (2018). The tree species pool of Amazonian wetland forests: Which species can assemble in periodically waterlogged habitats? PLOS ONE 13: e0198130. DOI: 10.1371/journal.pone.0198130
+
+. _Pereira LO_,_Furtado LFA_, Novo EMLM, Sant’Anna SJS, Liesenberg V, **Silva TSF** (2018). Multifrequency and Full-Polarimetric SAR Assessment for Estimating Above Ground Biomass and Leaf Area Index in the Amazon Várzea Wetlands. Remote Sensing 10: 1355. DOI: 10.3390/rs10091355
+
+. _Alvarado ST_,_Fornazari T_,_Cóstola A_, Morellato LPC, Silva TSF (2017). Drivers of fire occurrence in a mountainous Brazilian cerrado savanna: Tracking long-term fire regimes using remote sensing. Ecological Indicators 78: 270–281. DOI: 10.1016/j.ecolind.2017.02.037
+
+. Nogueira K, Santos JA, Cancian L, Borges BD, **Silva TSF**, Morellato LP, Torres RS (2017) Semantic segmentation of vegetation images acquired by unmanned aerial vehicles using an ensemble of ConvNets (2017). IEEE International Geoscience and Remote Sensing Symposium (IGARSS). paper presented at the 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 3787–3790. DOI: 10.1109/IGARSS.2017.8127824
+
+. _Streher AS_,_Sobreiro JFF_, Morellato LPC, **Silva TSF** (2017). Land Surface Phenology in the Tropics: The Role of Climate and Topography in a Snow-Free Mountain. Ecosystems 20: 1436–1453. DOI: 10.1007/s10021-017-0123-2.
+
+. Costa M, Evans T, **Silva TSF** (2016). Remote Sensing of Wetland Types: Subtropical Wetlands of Southern Hemisphere. In: Finlayson CM, Everard M, Irvine K, McInnes RJ, Middleton BA, van Dam AA and Davidson NC (eds) The Wetland Book: I: Structure and Function, Management and Methods. Springer Netherlands: Dordrecht, 1–6. DOI: 10.1007/978-94-007-6172-8_307-2
+
+. _Fragal EH_, **Silva TSF**, Novo EMLM (2016). Reconstructing historical forest cover change in the Lower Amazon floodplains using the LandTrendr algorithm. Acta Amazonica 46: 13–24. DOI: 10.1590/1809-4392201500835
+
+. _Furtado LFA_, **Silva TSF**, Novo EMLM (2016). Dual-season and full-polarimetric C band SAR assessment for vegetation mapping in the Amazon várzea wetlands. Remote Sensing of Environment 174: 212–222. DOI: 10.1016/j.rse.2015.12.013
+
+. Hess L, Costa M, Evans T, **Silva TSF**, Chapman B, Milne T (2016). Remote Sensing of Wetland Types: Tropical Flooded Forests. In: Finlayson CM, Everard M, Irvine K, McInnes RJ, Middleton BA, van Dam AA and Davidson NC (eds) The Wetland Book: I: Structure and Function, Management and Methods. Springer Netherlands: Dordrecht, 1–5. DOI: 10.1007/978-94-007-6172-8_303-2
+
+. Morellato LPC, Alberton B,_Alvarado ST_, Borges B, Buisson E, Camargo MGG, Cancian LF, Carstensen DW, Escobar DFE, Leite PTP, Mendoza I, Rocha NMWB, Soares NC, **Silva TSF**, Staggemeier VG,_Streher AS_, Vargas BC, Peres CA (2016). Linking plant phenology to conservation biology. Biological Conservation 195: 60–72. DOI: 10.1016/j.biocon.2015.12.033
+
+. Nogueira K, Santos JA,_Fornazari T_,  **Silva TSF**, Morellato LP, Torres RS (2016). Towards vegetation species discrimination by using data-driven descriptors. 2016 9th IAPR Workshop on Pattern Recogniton in Remote Sensing (PRRS). paper presented at the 2016 9th IAPR Workshop on Pattern Recogniton in Remote Sensing (PRRS), 1–6. DOI: 10.1109/PRRS.2016.7867024
+
+. _Ferreira-Ferreira J_, **Silva TSF**,_Streher AS_, Affonso AG,_Furtado LFA_, Forsberg BR, Valsecchi J, Queiroz HL, Novo EMLM. (2015) Combining ALOS/PALSAR derived vegetation structure and inundation patterns to characterize major vegetation types in the Mamirauá Sustainable Development Reserve, Central Amazon floodplain, Brazil. Wetlands Ecology and Management 23: 41–59. DOI: 10.1007/s11273-014-9359-1
+
+. Teixeira-de-Mello F, Oliveira VA, Loverde-Oliveira SM, Huszar VLM, Barquín J, Iglesias C, *Silva TSF*, Duque-Estrada CH, Silió-Calzada A, & Mazzeo N. (2016). The structuring role of free-floating plants on the fish community in a tropical shallow lake: An experimental approach with natural and artificial plants. Hydrobiologia, 778(1), 167–178. DOI: 10.1007/s10750-015-2447-2
+
+. _Furtado LFA_, **Silva TSF**, Fernandes PJF, Novo EMLM. (2015). Land cover classification of Lago Grande de Curuai floodplain (Amazon, Brazil) using multi-sensor and image fusion techniques. Acta Amazonica 45: 195–202. DOI: 10.1590/1809-4392201401439
+
+. _Luize BG_, **Silva TSF**, Wittmann F, Assis RL, Venticinque EM. (2015). Effects of the Flooding Gradient on Tree Community Diversity in Várzea Forests of the Purus River, Central Amazon, Brazil. Biotropica 47: 137–142. DOI: 10.1111/btp.12203
+
+. _Luize BG_, Venticinque EM, **Silva TSF**, Novo EMLM. (2015) A floristic survey of angiosperm species occurring at three landscapes of the Central Amazon várzea , Brazil. Check List 11: 1789. DOI: 10.15560/11.6.1789
+
+. _*Silva TSF**, Melack JM,_Streher AS_,_Ferreira-Ferreira J_,_Furtado LFA* (2015). Capturing the dynamics of Amazonian wetlands using synthetic aperture radar: lessons learned and future directions. Remote Sensing of Wetlands. CRC Press, 472–489.
+
+. _Streher AS_, Barbosa CCF, Galvão LS, Goodman JA, Novo EML de M, Silva TSF (2015). Sunglint correction in airborne hyperspectral images over inland waters. Revista Brasileira de Cartografia 66.
+
+. Montanher OC, Novo EMLM, Barbosa CCF, Rennó CD, **Silva TSF** (2014). Empirical models for estimating the suspended sediment concentration in Amazonian white water rivers using Landsat 5/TM. International Journal of Applied Earth Observation and Geoinformation 29: 67–77. DOI: 10.1016/j.jag.2014.01.001
+
+. Santos JS, Fontana DC, **Silva TSF**, Rudorff BFT (2014) Identificação da dinâmica espaço-temporal para estimar área cultivada de soja a partir de imagens MODIS no Rio Grande do Sul. 
+
+. _Arnesen AS_, **Silva TSF**, Hess LL, Novo EMLM, Rudorff CM, Chapman BD, McDonald KC. (2013) Monitoring flood extent in the lower Amazon River floodplain using ALOS/PALSAR ScanSAR images. Remote Sensing of Environment 130: 51–61. DOI: 10.1016/j.rse.2012.10.035
+
+. Costa MPF, **Silva TSF**, Evans TL (2013). Wetland Classification. Remote Sensing of Natural Resources. CRC Press: Boca Raton, FL, 461
+
+. *Silva TSF*, Melack JM, Novo EMLM. (2013). Responses of aquatic macrophyte cover and productivity to flooding variability on the Amazon floodplain. Global Change Biology 19: 3379–3389. DOI: 10.1111/gcb.12308
+
+. Fernandes RR, Nunes GM, Fantin-Cruz I, *Silva TSF*, & Cunha CN (2013). Uso de geotcnologias na análise da ocorrência de unidades fitofisionômicas na região do médio Araguaia. Revista Brasileira de Cartografia, 65(5), Article 5. http://www.seer.ufu.br/index.php/revistabrasileiracartografia/article/view/43866
+
+. Lima A, **Silva TSF**, Aragão LEOC, Feitas RM, Adami M, Formaggio AR, Shimabukuro YE. (2012) Land use and land cover changes determine the spatial relationship between fire and deforestation in the Brazilian Amazon. Applied Geography 34: 239–246. DOI: 10.1016/j.apgeog.2011.10.013.
+
+. Casali S, Calijuri MC, Barbarisi B, Renó VF, Affonso AG, Barbosa C, **Silva TSF**, Novo EMLM. (2011) Impact of the 2009 extreme water level variation on phytoplankton community structure in Lower Amazon floodplain lakes. Acta Limnologica Brasiliensia 23: 260–270. DOI: 10.1590/S2179-975X2012005000001
+
+. Renó VF, Novo EMLM, Suemitsu C, Rennó CD, **Silva TSF** (2011). Assessment of deforestation in the Lower Amazon floodplain using historical Landsat MSS/TM imagery. Remote Sensing of Environment 115: 3446–3456. DOI: 10.1016/j.rse.2011.08.008.
+
+. Sartori LR, Imai NN, Mura JC, Novo EMLM, **Silva TSF** (2011). Mapping Macrophyte Species in the Amazon Floodplain Wetlands Using Fully Polarimetric ALOS/PALSAR Data. IEEE Transactions on Geoscience and Remote Sensing 49: 4717–4728. DOI: 10.1109/TGRS.2011.2157972.
+
+. Evans TL, Costa M, Telmer K, **Silva TSF**. (2010). Using ALOS/PALSAR and RADARSAT-2 to Map Land Cover and Seasonal Inundation in the Brazilian Pantanal. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 3: 560–575. DOI: 10.1109/JSTARS.2010.2089042.
+
+. *Silva TSF*, Costa MPF, Melack JM (2010). Spatial and temporal variability of macrophyte cover and productivity in the eastern Amazon floodplain: A remote sensing approach. Remote Sensing of Environment 114: 1998–2010. DOI: 10.1016/j.rse.2010.04.007.
+
+. *Silva TSF*, Costa MPF, Melack JM (2010). Assessment of two biomass estimation methods for aquatic vegetation growing on the Amazon Floodplain. Aquatic Botany 92: 161–167. DOI: 10.1016/j.aquabot.2009.10.015
+
+. *Silva TSF*, Costa MPF, Melack JM (2009). Annual net primary production of macrophytes in the eastern Amazon floodplain. Wetlands 29: 747–758. DOI: 10.1672/08-107.1
+
+. *Silva TSF*, Costa MPF, Melack JM, Novo EMLM. (2008). Remote sensing of aquatic vegetation: theory and applications. Environmental Monitoring and Assessment 140: 131–145. DOI: 10.1007/s10661-007-9855-3
+
+. Marinho-Soriano E, **Silva TSF**, Moreira WSC (2001). Seasonal variation in the biomass and agar yield from Gracilaria cervicornis and Hydropuntia cornea from Brazil. Bioresource Technology 77: 115–120. DOI: 10.1016/S0960-8524(00)00158-9.

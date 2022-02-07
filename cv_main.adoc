@@ -79,67 +79,274 @@ Citations in Google Scholar 1311 (h=19)
 == Research
 
 === Grants and Awards
+[horizontal]
+2021-present:: Scottish Environmental Protection Agency. Aerial monitoring of tidal erosion and sedimentation in Dalgety Bay, Fife, Scotland. £48,083.25. Role: PI. 
 
-[cols="1,3"]
-|===
-|2019 - 2021    
-| *Japanese Aerospace Exploration Agency* “Derivation of Analysis Ready Data (ARD) from multisensor radar imagery for supporting global wetland mapping”. +
-*Role:* Principal Investigator.
+2021–present::  National Geographic Society/Rolex Perpetual Planet. The future of Amazonian flooded forests: how will tree species respond to inundation changes? US$ 199,927.50. Role: PI
 
-|2017 – 2020	
-|National Aeronautics and Space Administration “Methane fluxes from tropical aquatic systems: integration of measurements, hydrological and biogeochemical models and remote sensing” +
-*Role*: collaborator, , *PI*: Prof. John Melack, {ucsb}
+2020-2022:: Japanese Space Agency (JAXA) - Integrating multisensor information as analysis-ready data for semi-automated monitoring of South American wetlands (2020-2022). £10k in image acquisition rights. Role: PI.
 
-|2018 – 2021	
-|National Science Foundation “Aquatic metabolism and carbon dioxide flux: Linking physical and biological processes in Amazon floodplains”. +
-*Role*: collaborator, *PI*: Prof. John Melack, {ucsb}
+2019–2021::	Brazilian Council for Scientific Research (CNPq). Monitoring spatial and temporal fire and biomass accumulation in savanna and grassland : implications for strategic fire management. US$55,000. Role: Collaborator. PI: Alessandra Fidelis, UNESP.
 
-|2018 -2020		
-|Brazilian Research Council (CNPq) “Monitoring temporal and spatial patterns of fire regimes and fuel accumulation in Brazilian savanna protected areas: implications for developing integrated fire management strategies”. +
-*Role*: Co-Investigator, *PI*: Dr. Alessandra Fidelis, {unesp}.
-|===
+2018–present:: NSF DEB. Aquatic metabolism and carbon dioxide flux: Linking physical and biological processes in Amazon floodplains. US$ 25,000. Role: Collaborator. PI: John Melack, UCSB.
 
-=== Journal Publications
+2018–present:: Brazilian Council for Scientific Research (CNPq). Using managed pollinators to support conservation and sustainable açai production in the Amazon estuary region. US$53,000. Role: Collaborator. PI: Márcia Motta Maués, EMBRAPA.
+
+2017–2019:: National Geographic Society Committee for Research and Exploration grant 9983-16. Spatial and temporal carbon dynamics in Amazonian várzea forests: the role of flood dynamics and landscape heterogeneity. US$ $16,250. Role: PI.
+
+2013–2019:: Japanese Aerospace Exploration Agency (JAXA) PI 1483. Assessment of PALSAR-2 SAR imagery for monitoring inundation and vegetation distribution, biomass and phenology in the Amazon floodplain wetlands.  Approx. US$ 100,000 in satellite image acquisition rights. Role: PI.
+
+2017–2021:: NASA IDS NNX17AK49G Methane fluxes from tropical aquatic systems: integration of measurements, hydrological and biogeochemical models and remote sensing. US$ 20,000. Role: Collaborator. PI: John Melack, UCSB.
+
+2014–2019:: São Paulo Research Foundation (FAPESP) grant 2013/50155-0. e-phenology: combining new technologies to monitor phenology from leaves to ecosystems. US$ 400,000. Role: Co-PI. PI: Patrícia Morellato, UNESP.
+
+2017–2019::	São Paulo Research Foundation 2016/06628-0. Application of UAV High-Resolution Digital Elevation Models in Geology and Geomorphology. US$10,000 (US$ 80k total). Role: Co-I. PI: Carlos Grohmann, USP.
+
+2016–2019:: USAID PEER Project 5-9. History and diversification of floodplain forest bird communities in Amazonia: towards an integrated conservation plan. US$15,000 (US$ 200k total). Role: Co-I. PI: Camila Ribas, INPA/ Joel Cracraft, AMNH.
+
+2013–2016:: Brazilian Council for Scientific Research (CNPq) grant 458038/2013-0. Modeling the primary productivity of herbaceous vegetation in the Amazon floodplains: a multiscale approach. US$ 200,000. Role: PI.
+
+2012–2017:: NSF Dimensions of Biodiversity /São Paulo Research Foundation BIOTA. 2012/50260-6. Assembly and evolution of the Amazon biota: an integrative approach. US$ 50,000.00 (US$800k total). Role: Co-I. PI: Lucia Lohmann (USP), Joel Cracraft, AMNH.
+
+2014–2017:: NASA NNH13ZDA001N-IDS. Impacts of floods and droughts on aquatic macrophytes, forests, and fisheries of central Amazonian river floodplains. US$ 20,000 (US$ 1.M total). Role: Co-I. PI: Leandro Castello, Virginia Tech.
+
+2014-2015::	UNESP Competitive Research Startup Grant. Environmental applications of low cost unmanned aerial vehicles. US$ 3,000. Role: PI.
+
+2010–2013::	São Paulo Research Foundation postdoctoral fellowship 2010/11269-2. Modeling of the spatial dynamics of macrophyte communities in the Amazon floodplain. US$ 60,000. Role: PI.
+
+=== Publications
 
 Key:: _Italics: supervised students/postdocs_ , [.underline]#Underline - main/senior authorship#
 
-== Teaching and Mentoring 
+include::pub_list.adoc[]
 
-=== Supervision
+== Teaching Experience
+(Contact hours indicated)
 
-==== Posdoctoral researchers
+=== University of Stirling
 
-==== Ph.D. Students
+==== Postgraduate
+[horizontal]
+2022:: ENMPG11 - Geomatics (16 students, 60h, Environmental Science Masters program)
+2021:: ENMPG11 - Geomatics (22 students, 60h, Environmental Science Masters program)
+2020:: ENMPG11 - Geomatics (22 students, 60h, Environmental Science / Earth Observation Master’s programs)
+2020:: EPLPP2 - Remote Sensing Applications (3 students, 4h, Earth Observation Master’s program)
 
-==== M.Sc. Students
+==== Undergraduate
+[horizontal]
+2022::	BIOU6PE - Plant Ecology (48 students, 15h, Ecology program)
+2021::	GEOU9SP - Geographic Information Systems (65 students, 60h, Geog./Env.Sci/Ecol./Biol. majors).
+2021::	BIOU6PE -Plant Ecology (40 students, 15h, Ecology program)
+2021::	SCIU3FB - Biology Field Course (60 students, 12h, Animal Biology / Ecology majors)
+2020::	GEOU9IS - Geographic Information Systems (76 students, 60h, Geog./Env.Sci/Ecol./Biol. majors).
+2020::	SCIU3FB - Biology Field Course (60 students, 12h, Animal Biology / Ecology majors)
+2020::	BIOU6PE - Plant Ecology (25 students, 6h, Ecology majors)
+2019::	GEOU9SI - Geographic Information Systems (85 students, 60h, Geog./Env.Sci/Ecol./Biol. majors)
+2019::	SCIU3FB -Biology Field Course (60 students, 12h, Animal Biology / Ecology majors)
 
-==== Undergraduate Students
+=== São Paulo State University (UNESP)
 
-===== REI Fellowships
+==== Postgraduate
+[horizontal]
+2018:: Statistical analysis of ecological data (30 students, 60h, Ecology program)
+2017:: Remote sensing: physical basis and applications (25 students, 60h, Geography program)
+2014– 2017:: Statistical analysis of ecological data (35 students, 60h, Ecology program)
+2014– 2015:: Quantitative analysis of environmental data (5 students, 60h, Geography Grad. program)
+2014– 2016:: GIS and RS tools for landscape ecology (30 students, 8h, Ecology Graduate program)
+2014– 2015:: Plant phenology and climate change (15 students, 30h, Ecology/Botany Grad. Progra
 
-===== Honours Dissertations
+==== Undergraduate
+[horizontal]
+2018::	GEG3514 – Hydrology (35 students, 15 weeks, 4 hours/week, 1st yr. Ecology)
+2018::	GEG3143 – Biogeography (24 students, 15 weeks, 4 hours/week, 3rd yr. Ecology)
+2018::	GEG3480 – Biogeography (32 students, 15 weeks, 4 hours/week, 2nd yr. Geography)
+2018::	GEG3441 – Biogeography (27 students, 15 weeks, 4 hours/week, 2nd yr.Geography)
+2017::	GEG3143 – Biogeography (24 students, 15 weeks, 4 hours/week, 3rd yr. Ecology)
+2017::	GEG3480 – Biogeography (30 students, 15 weeks, 4 hours/week, 2nd yr. Geography)
+2017::	GEG3441 – Biogeography (29 students, 15 weeks, 4 hours/week, 2nd yr.Geography)
+2017::	GEG3461 – Bioclimatology (15 students, 15 weeks, 4 hours/week, Geography elective)
+2016::	GEG3143 – Biogeography (24 students, 15 weeks, 4 hours/week, 3rd yr. Ecology)
+2016::	GEG3480 – Biogeography (30 students, 15 weeks, 4 hours/week, 2nd yr. Geography)
+2016::	GEG3441 – Biogeography (29 students, 15 weeks, 4 hours/week, 2nd yr. Geography)
+2016::	GEG3143 – Landscape Analysis (20 students, 15 weeks, 4 hours/week, 4th yr. Geography)
+2015::	GEG3514 – Hydrology (30 students, 15 weeks, 4 hours/week, 1st yr. Ecology)
+2015::	GEG3143 – Biogeography (24 students, 15 weeks, 4 hours/week, 3rd yr. Ecology)
+2014::	GEG3143 – Biogeography (24 students, 15 weeks, 4 hours/week, 3rd yr. Ecology)
+2014::	GEG3480 – Biogeography (40 students, 15 weeks, 4 hours/week, 2nd yr. Geography)
+2014::	GEG3441 – Biogeography (38 students, 15 weeks, 4 hours/week, 2nd yr. Geography)
+2013::	GEG3441 – Biogeography (40 students, 15 weeks, 4 hours/week, 2nd yr. Geography)
 
-==== Volunteer Internships
+=== Camosun College, Victoria, BC, Canada 
 
-*Undergraduate Research*:
+==== Undegraduate
+[horizontal]
+2010::	GEOG 210 – Map and Airphoto Interpretation (28 students, 14 weeks, 5 hours/week, 2nd yr. Geography)
 
-Thais Pereira de Medeiros. Applying unmanned aerial vehicle imagery to vegetation studies (Geography undergraduate) UNESP – Rio Claro, Co-Supervisor FAPESP IC 2019/03269-7. 
-    
-Jacob Ashley. Effects of microtopography and microclimatic variation on species and functional diversity on temperate mountainous grassland.  (BSc in Ecology), University of Stirling, UK.
-    
-Peter Meehan. Deriving 3-D forest and habitat structure from low cost Unmanned Aerial Vehicle imagery. (BSc in Environmental Geography), University of Stirling, UK.
-    
-Sophia Thomson. Use of GIS assessment methods to locate ideal wind-farming locations in Central Scotland. (BSc in Environmental Geography), University of Stirling, UK.
-    
-*Master Students*: 
+=== University of Victoria, BC, Canada
 
-Isla Farrel. Using low cost unmanned aerial vehicles to estimate fuel load and vegetation regeneration after fires in a Braziilian savanna environment. Masters in Environmental Management, Faculty of Natural Sciences, University of Stirling. Start: 09/2019. Main Supervisor. 
+==== Undergraduate
+[horizontal]
+2009::	GEOG 428 – Advanced Topics in GIScience (7 students, 13 weeks, 3 hours/week, 4th yr. Geography)
+2009::	GEOG 319 – Remote Sensing of the Environment (40 students, 13 weeks, 2 hours/week, 3rd. yr. Geography)
+2009::	GEOG 228 – Digital Geomatics (40 students, 13 weeks, 2 hours/week, 2nd yr. Geography)
+2009::	GEOG 222 – Intro. to Geographical Information (70 students, 13 weeks, 3 hours/week, 2nd yr. Geography)
 
-Dhemerson Estevão Conciani da Costa. History and spatial variability in the fire regime of protected areas in the State of São Paulo. Graduate Program in Ecology and Biodiversity, IB/UNESP. Start: 03/2018. Main Supervisor.
-    
-*PhD Students*:
- 
-Kirsten O’Sullivan. Tree species range shifts in tropical mountainous forests of Taiwan. PhD candidate, Faculty of Natural Sciences, University of Stirling. Co-Supervisor.
+==== Teaching Assistant
+[horizontal]
+2009::	GEOG322 – Digital Remote Sensing (1 section of 20 students, 13 weeks, 98 hrs.)
+2008::	GEOG326 – Special Topics in Geographic Data Analysis  (2 sections of 20 students, 13 weeks, 196 hrs.)
+2008::	GEOG328 – Geographic Information Science I (1 section of 20 students, 13 weeks, 98 hrs.)
+2006::	GEOG322 – Digital Remote Sensing (1 section of 20 students, 13 weeks, 98 hrs.)
+2006::	GEOG326 – Special Topics in Geographic Data Analysis (1 section of 20 students, 13 	weeks, 98 hrs.)
+2005::	GEOG322 – Digital Remote Sensing (1 section of 20 students, 13 weeks, 98 hrs.)
+2005::	GEOG326 – Special Topics in Geographic Data Analysis (1 section of 20 students, 13 	weeks, 98 hrs.)
+2005::	GEOG101A – Biophysical Systems and the Human Environment (2 sections of 20 students, 	13 weeks, 196 hrs.)
+2004::	GEOG101A – Biophysical Systems and the Human Environment (2 sections of 20 students, 13 weeks, 196 hrs.)
+
+=== Short Term Instruction
+[horizontal]
+2018::	“Ecological remote sensing using Google Earth Engine”. City University of New York. June 19th, 8 hours. New York, USA.
+2016::	“Remote sensing using Unmanned Aerial Vehicles”. VI GeoPantanal - Symposium for Geomatics in the Pantanal, 16 hours, October 20th-21st, Cuiabá, Brazil.
+2015::	“Remote sensing using Unmanned Aerial Vehicles”. XVII Brazilian Symposium on Remote Sensing, 16 hours, April 25th-26th, João Pessoa, Brazil.
+
+== Mentoring ans supervision
+
+=== Postdoctoral Fellows
+
+[horizontal]
+2014–2019:: Swanni Tatiana Alvarado. Monitoring the effects of fire on the phenology and community structure of campos rupestres and Cerrado vegetation through remote sensing. FAPESP Fellowship 2014/12728-1.
+
+2016–2017:: Carlos Leandro de Oliveira Cordeiro. Integration of environmental data sets to describe and explore Amazonian biodiversity patterns. FAPESP Fellowship 2016/08685-0.
+
+=== Ph.D. Students
+[horizontal]
+2021-present:: Adam Fell (Co-Supervisor). Navigating fragmented tropical landscapes: understanding how forest fragmentation affects frugivore behaviour. Faculty of Natural Sciences, Division of Biological and Environmental Sciences, University of Stirling. 
+
+2021-present:: Louisa Habermann (Co-Supervisor). Understanding Soil Fertility Legacies in Coigach Assynt. Faculty of Natural Sciences, Division of Biological and Environmental Sciences, University of Stirling. 
+
+2019-present:: Kirsten O’Sullivan (Co-Supervisor). Changing distribution and composition of sub-tropical montane forests in Taiwan. Faculty of Natural Sciences, Division of Biological and Environmental Sciences, University of Stirling. 
+
+2015–2019:: Larissa Sayuri Moreira Sugai. Acoustic signaling assemblages: structuring processes and implications for community dynamics. Graduate Program in Ecology and Biodiversity, São Paulo State University (UNESP). FAPESP Fellowship 2015/25316-6.
+
+2015–2019:: Bruno Garcia Luize. The role of floodplains on the origin and maintenance of tree species diversity in the Amazon. Graduate Program in Ecology and Biodiversity, São Paulo State University (UNESP). FAPESP Fellowship 2015/24554-0.
+
+2015–2019:: Ana Beatriz Pierri Daunt. Drivers of landscape change in the coastal region of northern São Paulo state. Graduate Program in Geography, São Paulo State University (UNESP). CAPES PhD fellowship.
+
+2014–2018:: Jefferson Ferreira-Ferreira. Effects of landscape heterogeneity and hydrological variability on the carbon dynamics of várzea forests in Central Amazonia. Graduate Program in Geography, , São Paulo State University (UNESP).
+
+2014–2018:: Annia Susin Streher. Abiotic and biotic drivers of species diversity across an elevation gradient: an optical trait-based approach for testing ecological theories. Graduate Program in Ecology and Biodiversity, São Paulo State University (UNESP). FAPESP Fellowship 2015/17534-3.
+
+=== M.Sc. Students
+[horizontal]
+2020-2021:: Novelyne Borday. New higher spatial resolution Sentinel-2 satellite imagery and the advantages and 
+disadvantages of replacing the norm satellite MODIS for phenology studies  Taught Masters in Environmental Management.
+
+2020-2021:: Jack Westwood. NOptimizing a machine learning framework for mapping the inundation of wetland habitats in the Amazon Basin, using multi-sensor and multitemporal remote sensing. Taught Masters in Environmental Management.
+
+2019-2020:: Isla Farrel. Assessing vegetation regeneration responses following prescribed fires in the Amazonian Savanna (Brazil) using UAV imagery. Taught Masters in Earth and Planetary Observation.
+
+2017–2019:: João Francisco Ferreira Sobreiro. Hydroclimatic controls and climate change impacts on vegetation distribution in the Espinhaço Mountain Range, Brazil. Graduate Program in Geography, São Paulo State University (UNESP). CAPES Fellowship.
+
+2015–2017:: Rafaela Soares Niemann. Generating Digital Terrain Models from UAV -derived point clouds using terrain filtering algorithms. Graduate Program in Geography, São Paulo State University (UNESP). CAPES fellowship.
+
+2014–2015:: Everton Hafemann Fragal. Historical reconstruction of forest cover changes in Lower Amazon varzeas using the LandTrendr algorithm. Graduate Program in Remote Sensing, National Institute for Space Research (INPE). CAPES fellowship.
+
+2013–2014:: Luiz Felipe de Almeida Furtado. Mapping and modeling vegetation structure in the Amazon varzeas using C-band polarimetric data. Graduate Program in Remote Sensing, National Institute for Space Research (INPE). CAPES fellowship.
+
+2012–2013:: Allan Saddi Arnesen. Monitoring inundation extent in the Curuai Lake floodplain using ALOS/PALSAR ScanSAR imagery and auxiliary data. Graduate Program in Remote Sensing, National Institute for Space Research (INPE). CAPES fellowship.
+
+=== Undergraduate Dissertations
+[horizontal]
+2019-2020:: Jacob Ashley. How do the microclimates across a mountain affect the structure of plant communities? Ecology major.
+
+2019-2020:: Peter Meehan. The correlation between LiDAR data and forest inventory data and its potential benefits to small-scale organisations. Environmental Geography major.
+
+2019-2020:: Sophia Thomson. Increased wind energy potential in Stirlingshire, Scotland, using Geographic Information Systems (GIS). Environmental Geography major.
+
+2016–2019:: Abner Castro de Carvalho. Geomatics tools for supporting Amazon biodiversity modeling. Ecology major. Received CNPq undergraduate research fellowship.
+
+2016–2018:: André Bresighello Beig. Influence of fluvial dynamics on forest cover change in the Amazon floodplain wetlands. Geography major Received CNPq undergraduate research fellowship.
+
+2017–2019:: Tamires Fornazari. The role of public policies and private concessions in the conservation efforts of São Paulo state parks. Geography major. Received FAPESP undergraduate research fellowship.
+
+2016–2017:: Rodrigo de Jesus. Mapping temporal changes in mangrove extent in the coast of São Paulo. Geography major.
+2015–2016:: Julio Araújo Alves. Influence of hydrogeomorphology on vegetation distribution and landscape dynamics in Amazon floodplains: a remote sensing approach. Geography major.
+
+2015–2016:: João Francisco Ferreira Sobreiro. Climate change and conservation: analyzing precipitation patterns and identifying future climatic refugia in the Espinhaço range (Brazil). Geography major. Undergraduate Thesis. Received CNPq undergraduate research fellowship.
+
+2015–2016:: Luís Fernando de Castro Campanha. Influence of geodiversity on the distribution of vegetation types in the Serra do Cipó National Park. Ecology major. Received CNPq undergraduate research fellowship.
+
+2015–2016:: 
+Renata Felício Boitar Paes Dias. Urban landscape perception in the Liberdade district, São Paulo: the perspective of urban transformation from generation gaps in the Japanese- Brazilian community. Geography major.
+
+2014–2015:: 
+Nathalie Assis. Developing an implementation plan for a botanical garden in Rio Claro, SP. Geography major.
+
+2013–2014:: Flora Shellard Corrêa. Land use change drivers and dynamics in the city of Carapicuíba, SP. Ecology major. Received FAPESP undergraduate research fellowship.
+
+=== Undergraduate Research Internships
+[horizontal]
+2016–2019:: Thais Pereira de Medeiros. Applying unmanned aerial vehicle imagery to vegetation studies Geography major. CNPq undergraduate research fellowship.
+2016–2017::  
+Abner Castro de Carvalho. Geomatics tools for supporting Amazon biodiversity modeling. Ecology major. CNPq undergraduate research fellowship.
+2014–2015:: João Francisco Ferreira Sobreiro. Optimizing imaging parameters for environmental imaging using Unmanned Aerial Vehicles. Geography major. UNESP undergraduate research fellowship.
+2014–2015:: Luís Fernando de Castro Campanha. Fire distribution in the Serra do Cipó National Park: a remote sensing approach. Ecology major. UNESP undergraduate research fellowship.
+2013–2014:: 
+Leonardo Nicolau de Barros. Mapping land use and land cover change in the Santa Gertrudes municipality. Geography major. Volunteer internship.
+2013–2014:: Lucas de Souza Almeida. Remote sensing of surface temperature in the Serra do Caparaó region to support ecological and evolutionary herpetology. Biology major. UNESP undergraduate research fellowship.
+2013–2014:: Tamires Fornazari. Fire distribution in the Serra do Cipó National Park: a remote sensing approach. Geography major. CNPq undergraduate research fellowship.
+
+== Service
+
+=== Administration
+[horizontal]
+2021-present:: BES Equality, Diversity and Inclusion Committee 
+2019–present:: General University Ethics Panel, University of Stirling
+2019-present:: BES GUEP Panel, University of Stirling 
+2017–2019:: Vice-chair of the Ecology graduate program, UNESP
+2017–2019:: Faculty board – Ecology graduate program, UNESP
+2016–2019:: Faculty board – Geography graduate program, UNESP
+2016–2019:: Curriculum Overhaul Committee - Ecology undergraduate program, Institute of Biosciences, UNESP
+2015-2019:: Faculty board - Geography Department, UNESP
+2015-2019:: Faculty board - Ecology undergraduate program, UNESP
+2014-2015:: Board member, Central Chamber for Research – Institute of Geosciences and Mathematical Sciences, UNESP
+2014-2015:: Board member, Central Chamber for Teaching – Institute of Geosciences and Mathematical Sciences, UNESP	 
+
+=== Journal Editor
+2017–present:: Associate Editor, Global Ecology and Biogeography (IF 6.045, ranked 10/153 Ecology and 2/49 Physical Geography by ISI Journal Citation Reports).
+
+=== Proposal Reviewer
+2019:: Economic and Social Research Council (ESRC), UK.
+2019:: Natural Environment Research Council (NERC), UK.
+2017:: Conselho Nacional de Pesquisa e Desenvolvimento (CNPq), Brazil.
+2017:: Fundação de Apoio à Pesquisa do Estado de São Paulo (FAPESP), Brazil.
+2015:: Agencia Nacional de Promoción Científica y Técnica (ANPCyT), Argentina 
+2014:: Hungarian Scientific Research Fund (OTKA). Call for proposals to support basic research 2014/1.
+2012:: NASA ROSES 2011 Terrestrial Ecology Solicitation. Solicitation NNH11ZDA001N-TE. Panel Coordinators: Diane Wickland / Woody Turner.
+
+=== Journal Referee
+
+Remote Sensing of Environment, Wetlands, Aquatic Sciences, Sensors, Tropical Conservation Science, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Wetlands Ecology and Management, Environmental Science & Technology, Journal of Applied Remote Sensing, Journal of Environmental Management, Remote Sensing, Computers & Geosciences, European Journal of Remote Sensing, Applied Vegetation Science, Biogeochemistry, PLOS One, Plant Ecology & Diversity, Biological Conservation, Environmental Monitoring and Assessment, Scientific Reports, ISPRS Journal of Photogrammetry and Remote Sensing, Scientific Reports, Global Ecology and Biogeography, Aquatic Sciences.
+
+=== Other Activities
+
+2021::    Invited talk: “Phenological monitoring: open data, open software and open hardware to face the climate challenge”. 22nd International Congress of Biometeorology, 20-22 September, online.
+
+2018::	Invited participation on the NASA-sponsored workshop “Remote Sensing of Inundation Extent”, organized to provide NASA headquarters with a report on the current capabilities and future challenges and needs for monitoring inundation from space.
+
+2014–2016::	Chair of the Scientific Committee - Amazonian Floodable Forests Research Network (RECORFLOR), a network funded by the Mamirauá Sustainable Development Institute to develop basic and applied research on Amazon floodable forests. 
+
+2012:: Conference session organizer: “Mapping and monitoring large wetland systems and biophysical properties with Earth observation satellite imagery”. 9th INTECOL International Wetlands Conference – Orlando, Florida, June 3-8. Co-organizers: Dr. Maycira Costa, Dr. Lisa-Maria Rebelo.
+
+2011:: Conference session organizer: “Operational Remote Sensing of Inland Waters in Brazil: Challenges and Opportunities” (translated title). XIII Brazilian Limnology Conference – Natal, Brazil, September 4-8.
+
+=== Citizenship											  
+Brazilian Citizen, Permanent Resident of Canada.
+
+
+
+
+
 
 ## 6) Academic Quantitative Indicators
 
@@ -160,7 +367,7 @@ Citations in Google Scholar 1311 (h=19)
 
 Google Scholar: 		http://scholar.google.ca/citations?user=hpPTEmcAAAAJ
 
-*Scientific and Editorial Committees:*
+_Scientific and Editorial Committees:*
 
 Scientific Coordinator 	Network for Research on Ecology and Use of Wetland Forests in the Amazon River (Rede de Pesquisas sobre a Ecologia e Uso dos Recursos das Florestas Inundáveis da Calha do Solimões-Amazonas - 
 RECORFLOR). 
